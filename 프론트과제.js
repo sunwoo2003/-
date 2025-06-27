@@ -43,3 +43,5 @@ fetch(url)
     const container = document.getElementById("news-article");
     container.innerHTML = "<p>뉴스를 불러오는 데 실패했습니다.</p>";
   });
+
+  
